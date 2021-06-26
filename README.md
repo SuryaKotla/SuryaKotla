@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SuryaKotla
 - 👀 I’m interested in Data Science & AI
 - 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 How to reach me Twitter: @SuryaKotla_
 
 <!---
