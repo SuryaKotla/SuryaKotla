@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SuryaKotla
 - 👀 I’m interested in Data Science & AI
 - 🌱 I’m currently learning
-- 📫 How to reach me Twitter: @SuryaKotla_
+- 📫 How to reach me Twitter: @SuryaKotla
 
 <!---
 SuryaKotla/SuryaKotla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
